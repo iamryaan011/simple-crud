@@ -3,7 +3,7 @@ CRUD simples com suas devidas funcionalidades.
 
 ## 🛠️ Tecnologias Utilizadas
 <br/>HTML;
-<br/>CSS;
+<br/>CSS e Bootstrap;
 <br/>JavaScript;
 
 <br/>PHP;
@@ -50,7 +50,7 @@ Abra http://localhost/simple-crud no seu navegador
 ## 📁 Estrutura de Pastas
 A estrutura do projeto segue sendo algo bem simples e "entendível" separando a lógica do backend e do frontend
 
-pokewild/
+simple-crud/
 <br/>├── backend/
 <br/>├── frontend
 
